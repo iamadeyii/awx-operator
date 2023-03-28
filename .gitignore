@@ -10,3 +10,5 @@ gh-pages/
 .vscode/
 __pycache__
 .DS_Store
+*virtualbox.box
+*.env
